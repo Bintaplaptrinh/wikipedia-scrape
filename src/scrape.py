@@ -198,3 +198,4 @@ def join_table(df_population, df_area):
     except Exception as e:
         print(f"error in join step: {str(e)}")
         return None
+    
